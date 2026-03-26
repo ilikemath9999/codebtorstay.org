@@ -1,0 +1,16 @@
+{
+  "name": "The Codebtor Stay -- Section 1301",
+  "short_name": "codebtorstay.org",
+  "description": "Free guide to the codebtor stay under 11 U.S.C. Section 1301. Learn how Chapter 13 protects cosigners, co-borrowers, and guarantors from creditor collection during the bankruptcy case.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
