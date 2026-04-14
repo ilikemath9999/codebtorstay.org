@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Codebtor Protection in Chapter 7 vs. Chapter 13 -- Co-Debtor Stay
+## Codebtor Protection in Chapter 7 vs. Chapter 13 - Co-Debtor Stay
 Source: https://codebtorstay.org/chapter-7-vs-13.html
 
 Skip to main content
@@ -29,11 +29,11 @@ Network › Codebtor Stay › Chapter 7 vs. Chapter 13
 
 The Fundamental Difference
 
-When it comes to protecting the people who cosigned your debts, the choice between Chapter 7 and Chapter 13 bankruptcy could not be more consequential. This is not a minor technical distinction -- it is one of the most important practical differences between the two chapters.
+When it comes to protecting the people who cosigned your debts, the choice between Chapter 7 and Chapter 13 bankruptcy could not be more consequential. This is not a minor technical distinction - it is one of the most important practical differences between the two chapters.
 
-Chapter 7 has no codebtor stay. When you file Chapter 7, the automatic stay under Section 362 protects you from creditors. But your cosigners, co-borrowers, and guarantors receive zero protection. The creditor can -- and often will -- immediately shift its collection efforts to the cosigner the moment your Chapter 7 case is filed.
+Chapter 7 has no codebtor stay. When you file Chapter 7, the automatic stay under Section 362 protects you from creditors. But your cosigners, co-borrowers, and guarantors receive zero protection. The creditor can - and often will - immediately shift its collection efforts to the cosigner the moment your Chapter 7 case is filed.
 
-Chapter 13 has an automatic codebtor stay. Under 11 U.S.C. Section 1301, when you file Chapter 13, creditors are automatically prohibited from taking any collection action against individuals who are also liable on your consumer debts. This protection lasts for the entire duration of your Chapter 13 case -- typically three to five years.
+Chapter 13 has an automatic codebtor stay. Under 11 U.S.C. Section 1301, when you file Chapter 13, creditors are automatically prohibited from taking any collection action against individuals who are also liable on your consumer debts. This protection lasts for the entire duration of your Chapter 13 case - typically three to five years.
 
 Side-by-Side Comparison
 
@@ -77,15 +77,15 @@ What Happens to Cosigners in Chapter 7
 
 When you file Chapter 7, here is what typically happens to your cosigners:
 
-You file the petition. The automatic stay under Section 362 immediately protects you -- but only you -- from all collection activity.
+You file the petition. The automatic stay under Section 362 immediately protects you - but only you - from all collection activity.
 
 Creditors shift to the cosigner. Because the automatic stay does not extend to cosigners in Chapter 7, the creditor is free to begin or continue collection against the cosigner immediately. There is no waiting period and no court approval needed.
 
-You receive your discharge. Typically 60 to 90 days after filing, you receive a Chapter 7 discharge that eliminates your personal liability on the discharged debts. But the discharge is personal to you -- it does not affect the cosigner's obligation.
+You receive your discharge. Typically 60 to 90 days after filing, you receive a Chapter 7 discharge that eliminates your personal liability on the discharged debts. But the discharge is personal to you - it does not affect the cosigner's obligation.
 
 The cosigner owes the full amount. After your discharge, the creditor cannot collect from you, but the cosigner remains liable for the entire debt. The creditor can sue the cosigner, garnish their wages, and take other collection action.
 
-The Chapter 7 cosigner problem. Filing Chapter 7 can actually make things worse for cosigners. Before you filed, the creditor could pursue both you and the cosigner. After your Chapter 7 discharge, the creditor can only pursue the cosigner -- making them the sole target. Many cosigners first learn they are being held responsible when they receive a collection letter or lawsuit after the primary borrower's Chapter 7 discharge.
+The Chapter 7 cosigner problem. Filing Chapter 7 can actually make things worse for cosigners. Before you filed, the creditor could pursue both you and the cosigner. After your Chapter 7 discharge, the creditor can only pursue the cosigner - making them the sole target. Many cosigners first learn they are being held responsible when they receive a collection letter or lawsuit after the primary borrower's Chapter 7 discharge.
 
 What Happens to Cosigners in Chapter 13
 
@@ -99,7 +99,7 @@ The codebtor stay lasts throughout the case. For the entire 3-to-5-year plan per
 
 If the plan pays 100%, the cosigner is free. When you complete your plan and the cosigned debt has been paid in full, the cosigner owes nothing. Both you and the cosigner walk away from the debt.
 
-This is why Chapter 13 exists. The codebtor stay was specifically designed to address the problem of cosigner exposure in bankruptcy. Congress recognized that allowing debtors to restructure their debts through a repayment plan -- while simultaneously protecting the people who signed for them -- serves the interests of debtors, cosigners, and creditors alike.
+This is why Chapter 13 exists. The codebtor stay was specifically designed to address the problem of cosigner exposure in bankruptcy. Congress recognized that allowing debtors to restructure their debts through a repayment plan - while simultaneously protecting the people who signed for them - serves the interests of debtors, cosigners, and creditors alike.
 
 When to Choose Chapter 13 for Cosigner Protection
 
@@ -129,7 +129,7 @@ The cosigner plans to file too. If the cosigner is also considering bankruptcy, 
 
 The Conversion Risk
 
-One important risk to understand: if you file Chapter 13 and your case is later converted to Chapter 7, the codebtor stay terminates immediately. Conversion can happen for various reasons -- failure to make plan payments, inability to propose a confirmable plan, or a change in financial circumstances.
+One important risk to understand: if you file Chapter 13 and your case is later converted to Chapter 7, the codebtor stay terminates immediately. Conversion can happen for various reasons - failure to make plan payments, inability to propose a confirmable plan, or a change in financial circumstances.
 
 If your primary reason for choosing Chapter 13 is cosigner protection, it is critical to maintain plan payments and comply with all Chapter 13 requirements. A converted case loses the codebtor stay, and your cosigner would be in the same position as if you had filed Chapter 7 from the beginning.
 
@@ -137,7 +137,7 @@ Frequently Asked Questions
 
 Does Chapter 7 bankruptcy protect my cosigner?
 
-No. Chapter 7 does not have a codebtor stay. When you file Chapter 7, you receive an automatic stay that protects you from creditors, but your cosigner gets no protection. The creditor is free to pursue your cosigner for the full amount of the debt immediately after you file, and your Chapter 7 discharge eliminates only your personal liability -- not the cosigner's.
+No. Chapter 7 does not have a codebtor stay. When you file Chapter 7, you receive an automatic stay that protects you from creditors, but your cosigner gets no protection. The creditor is free to pursue your cosigner for the full amount of the debt immediately after you file, and your Chapter 7 discharge eliminates only your personal liability - not the cosigner's.
 
 Is the codebtor stay the main reason to choose Chapter 13 over Chapter 7?
 
@@ -149,7 +149,7 @@ If your Chapter 13 case is converted to Chapter 7, the codebtor stay under Secti
 
 Can my cosigner file their own bankruptcy if Chapter 7 does not protect them?
 
-Yes. If your Chapter 7 discharge leaves your cosigner exposed to collection on the cosigned debt, the cosigner can file their own bankruptcy case -- either Chapter 7 or Chapter 13 -- to address their own liability. However, this requires the cosigner to meet all eligibility requirements for the chapter they choose to file.
+Yes. If your Chapter 7 discharge leaves your cosigner exposed to collection on the cosigned debt, the cosigner can file their own bankruptcy case - either Chapter 7 or Chapter 13 - to address their own liability. However, this requires the cosigner to meet all eligibility requirements for the chapter they choose to file.
 
 Check Your Bankruptcy Discharge Eligibility
 
@@ -170,21 +170,21 @@ Subscribe
 
 Related Resources
 
-What Is Chapter 7? -- Understanding Chapter 7 liquidation bankruptcy
+What Is Chapter 7? - Understanding Chapter 7 liquidation bankruptcy
 
-Chapter 13 Plans -- How Chapter 13 repayment plans work and get confirmed
+Chapter 13 Plans - How Chapter 13 repayment plans work and get confirmed
 
-Section 727(a)(8) -- Timing bars on Chapter 7 discharge eligibility
+Section 727(a)(8) - Timing bars on Chapter 7 discharge eligibility
 
 Further Reading & Resources
 
 Authority sources for deeper research on the automatic stay:
 
 11 U.S.C. Section 362
-Cornell LII -- the statute that creates the automatic stay
+Cornell LII - the statute that creates the automatic stay
 
 11 U.S.C. Section 1301
-Cornell LII -- codebtor stay in Chapter 13
+Cornell LII - codebtor stay in Chapter 13
 
 Bankruptcy Basics
 U.S. Courts official guide
@@ -276,7 +276,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Codebtor Stay and Community Property States -- Co-Debtor Stay
+## Codebtor Stay and Community Property States - Co-Debtor Stay
 Source: https://codebtorstay.org/community-property.html
 
 Skip to main content
@@ -299,7 +299,7 @@ Network › Codebtor Stay › Community Property
 
 Community Property States
 
-Nine states follow a community property system that fundamentally changes how marriage, debt, and property ownership work. In these states, most property acquired during the marriage belongs to both spouses equally, and most debts incurred during the marriage are considered community obligations -- regardless of which spouse actually signed the loan or credit agreement.
+Nine states follow a community property system that fundamentally changes how marriage, debt, and property ownership work. In these states, most property acquired during the marriage belongs to both spouses equally, and most debts incurred during the marriage are considered community obligations - regardless of which spouse actually signed the loan or credit agreement.
 
 Arizona
 
@@ -327,7 +327,7 @@ How Community Property Enters the Bankruptcy Estate
 
 Under 11 U.S.C. Section 541(a)(2), the bankruptcy estate of a debtor who files in a community property state includes "all interests of the debtor and the debtor's spouse in community property" that is under the sole, equal, or joint management and control of the debtor, or is liable for an allowable claim against the debtor or against the debtor and debtor's spouse.
 
-This is a dramatic expansion of the bankruptcy estate compared to common-law states. In a common-law state, only the debtor's individual property enters the estate. In a community property state, virtually all community property -- including property titled solely in the non-filing spouse's name -- can be pulled into the estate.
+This is a dramatic expansion of the bankruptcy estate compared to common-law states. In a common-law state, only the debtor's individual property enters the estate. In a community property state, virtually all community property - including property titled solely in the non-filing spouse's name - can be pulled into the estate.
 
 What this means in practice
 
@@ -353,11 +353,11 @@ The codebtor stay under Section 1301 operates the same way in community property
 
 Layer 1: The codebtor stay (Section 1301)
 
-If the non-filing spouse is a co-obligor on a consumer debt -- for example, both spouses signed a car loan -- the codebtor stay protects the non-filing spouse from collection during the Chapter 13 case. This works exactly as it does in common-law states.
+If the non-filing spouse is a co-obligor on a consumer debt - for example, both spouses signed a car loan - the codebtor stay protects the non-filing spouse from collection during the Chapter 13 case. This works exactly as it does in common-law states.
 
 Layer 2: The automatic stay on community property (Section 362)
 
-Because community property enters the bankruptcy estate under Section 541(a)(2), the automatic stay under Section 362(a) prevents creditors from taking any action to collect against community property. This means creditors cannot garnish community wages, levy community bank accounts, or foreclose on community real property -- even if the debt is solely in the non-filing spouse's name.
+Because community property enters the bankruptcy estate under Section 541(a)(2), the automatic stay under Section 362(a) prevents creditors from taking any action to collect against community property. This means creditors cannot garnish community wages, levy community bank accounts, or foreclose on community real property - even if the debt is solely in the non-filing spouse's name.
 
 Layer 3: The community discharge injunction (Section 524(a)(3))
 
@@ -387,7 +387,7 @@ In community property states
 
 The codebtor stay applies to consumer debts where the spouse is co-liable
 
-The automatic stay protects all community property in the estate -- regardless of which spouse holds title
+The automatic stay protects all community property in the estate - regardless of which spouse holds title
 
 Section 524(a)(3) provides permanent protection for community property after discharge
 
@@ -399,7 +399,7 @@ Special Considerations for Community Property Filings
 
 Separate property of the non-filing spouse
 
-Even in community property states, each spouse can have separate property -- typically property owned before the marriage, inherited property, or property received as a gift. Separate property of the non-filing spouse does not enter the bankruptcy estate and is not protected by the automatic stay. Creditors of the non-filing spouse can pursue the non-filing spouse's separate property without being blocked by the debtor's bankruptcy.
+Even in community property states, each spouse can have separate property - typically property owned before the marriage, inherited property, or property received as a gift. Separate property of the non-filing spouse does not enter the bankruptcy estate and is not protected by the automatic stay. Creditors of the non-filing spouse can pursue the non-filing spouse's separate property without being blocked by the debtor's bankruptcy.
 
 Community debts vs. separate debts
 
@@ -419,7 +419,7 @@ In community property states, filing a single-spouse bankruptcy can sometimes be
 
 One spouse has significant separate debt. If one spouse accumulated debt before the marriage, a single filing can address that spouse's debts while the community property protections shield the other spouse.
 
-Protecting the non-filing spouse's credit. A bankruptcy filing appears on the filer's credit report. By having only one spouse file, the other spouse's credit report remains clean -- while still receiving the community property protections.
+Protecting the non-filing spouse's credit. A bankruptcy filing appears on the filer's credit report. By having only one spouse file, the other spouse's credit report remains clean - while still receiving the community property protections.
 
 Means test considerations. The means test calculations differ for single vs. joint filings, and filing individually may produce a more favorable result in certain situations.
 
@@ -437,11 +437,11 @@ The codebtor stay under Section 1301 protects individuals liable on consumer deb
 
 What is Section 524(a)(3) and how does it help non-filing spouses?
 
-Section 524(a)(3) provides that a discharge operates as an injunction against the commencement or continuation of an action to collect a discharged debt from community property that was property of the estate. This means that after the debtor receives a discharge, creditors cannot pursue community property to collect discharged debts -- even though the non-filing spouse did not file bankruptcy. This is a permanent protection that survives the case.
+Section 524(a)(3) provides that a discharge operates as an injunction against the commencement or continuation of an action to collect a discharged debt from community property that was property of the estate. This means that after the debtor receives a discharge, creditors cannot pursue community property to collect discharged debts - even though the non-filing spouse did not file bankruptcy. This is a permanent protection that survives the case.
 
 How does community property bankruptcy differ from common-law state bankruptcy for cosigners?
 
-In common-law states, the codebtor stay under Section 1301 is the primary protection for cosigners in Chapter 13. In community property states, non-filing spouses receive additional protections: community property enters the bankruptcy estate under Section 541(a)(2), the automatic stay can protect community property from collection, and Section 524(a)(3) permanently protects community property after discharge. These protections operate alongside -- and in addition to -- the codebtor stay.
+In common-law states, the codebtor stay under Section 1301 is the primary protection for cosigners in Chapter 13. In community property states, non-filing spouses receive additional protections: community property enters the bankruptcy estate under Section 541(a)(2), the automatic stay can protect community property from collection, and Section 524(a)(3) permanently protects community property after discharge. These protections operate alongside - and in addition to - the codebtor stay.
 
 Check Your Bankruptcy Discharge Eligibility
 
@@ -462,21 +462,21 @@ Subscribe
 
 Related Resources
 
-The Automatic Stay -- How Section 362 stops creditor collection the moment you file
+The Automatic Stay - How Section 362 stops creditor collection the moment you file
 
-The Discharge Injunction -- Permanent protection after your bankruptcy case ends
+The Discharge Injunction - Permanent protection after your bankruptcy case ends
 
-Bankruptcy Exemptions -- Protecting your property in bankruptcy
+Bankruptcy Exemptions - Protecting your property in bankruptcy
 
 Further Reading & Resources
 
 Authority sources for deeper research on the automatic stay:
 
 11 U.S.C. Section 362
-Cornell LII -- the statute that creates the automatic stay
+Cornell LII - the statute that creates the automatic stay
 
 11 U.S.C. Section 1301
-Cornell LII -- codebtor stay in Chapter 13
+Cornell LII - codebtor stay in Chapter 13
 
 Bankruptcy Basics
 U.S. Courts official guide
@@ -567,7 +567,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Protecting Your Cosigner in Chapter 13 Bankruptcy -- Co-Debtor Stay
+## Protecting Your Cosigner in Chapter 13 Bankruptcy - Co-Debtor Stay
 Source: https://codebtorstay.org/cosigner-protection.html
 
 Skip to main content
@@ -592,9 +592,9 @@ Why Cosigners Are at Risk
 
 When someone cosigns a loan or co-borrows on a credit account, they are making a legal promise to the creditor: if the primary borrower does not pay, the cosigner will. This is a binding contractual obligation that exists independently of the primary borrower's financial situation.
 
-When the primary borrower falls behind on payments or files for bankruptcy, the creditor does not lose the right to collect. The creditor simply shifts its collection focus to the cosigner. Without any special protection, filing bankruptcy can actually make things worse for cosigners -- because the debtor's filing triggers the creditor to pursue the one person who is still legally obligated and not protected by the bankruptcy court.
+When the primary borrower falls behind on payments or files for bankruptcy, the creditor does not lose the right to collect. The creditor simply shifts its collection focus to the cosigner. Without any special protection, filing bankruptcy can actually make things worse for cosigners - because the debtor's filing triggers the creditor to pursue the one person who is still legally obligated and not protected by the bankruptcy court.
 
-This is where Chapter 13 stands apart from every other bankruptcy chapter. Under 11 U.S.C. Section 1301, Chapter 13 provides an automatic codebtor stay that prevents creditors from pursuing cosigners on consumer debts for the duration of the case. But the stay alone is not enough -- how you design your Chapter 13 plan determines whether your cosigner is truly protected or merely given a temporary reprieve.
+This is where Chapter 13 stands apart from every other bankruptcy chapter. Under 11 U.S.C. Section 1301, Chapter 13 provides an automatic codebtor stay that prevents creditors from pursuing cosigners on consumer debts for the duration of the case. But the stay alone is not enough - how you design your Chapter 13 plan determines whether your cosigner is truly protected or merely given a temporary reprieve.
 
 The Chapter 13 Solution
 
@@ -618,7 +618,7 @@ What Happens with Partial Payment
 
 If your Chapter 13 plan does not propose to pay the cosigned debt at 100%, the creditor can file a motion for relief from the codebtor stay under 11 U.S.C. Section 1301(c)(2). This subsection allows the court to grant relief when "the plan filed by the debtor proposes not to pay such claim."
 
-Courts interpret "proposes not to pay" broadly. If the plan proposes to pay the cosigned claim at 50%, the creditor can argue that the plan proposes not to pay the other 50%. If the court agrees, it can grant relief from the codebtor stay to the extent of the unpaid portion -- meaning the creditor could pursue the cosigner for the remaining 50%.
+Courts interpret "proposes not to pay" broadly. If the plan proposes to pay the cosigned claim at 50%, the creditor can argue that the plan proposes not to pay the other 50%. If the court agrees, it can grant relief from the codebtor stay to the extent of the unpaid portion - meaning the creditor could pursue the cosigner for the remaining 50%.
 
 The partial payment trap. Some debtors assume that paying even a partial amount through the plan will protect their cosigner. This is not always true. If the plan does not propose 100% payment of the cosigned claim, the creditor has a statutory basis to seek relief from the codebtor stay for the shortfall. The cosigner could end up being pursued for whatever the plan does not cover.
 
@@ -697,21 +697,21 @@ Subscribe
 
 Related Resources
 
-Chapter 13 Plans -- How Chapter 13 repayment plans work and get confirmed
+Chapter 13 Plans - How Chapter 13 repayment plans work and get confirmed
 
-What Is Chapter 7? -- Understanding Chapter 7 liquidation and why it does not protect cosigners
+What Is Chapter 7? - Understanding Chapter 7 liquidation and why it does not protect cosigners
 
-The Automatic Stay -- How Section 362 stops creditor collection the moment you file
+The Automatic Stay - How Section 362 stops creditor collection the moment you file
 
 Further Reading & Resources
 
 Authority sources for deeper research on the automatic stay:
 
 11 U.S.C. Section 362
-Cornell LII -- the statute that creates the automatic stay
+Cornell LII - the statute that creates the automatic stay
 
 11 U.S.C. Section 1301
-Cornell LII -- codebtor stay in Chapter 13
+Cornell LII - codebtor stay in Chapter 13
 
 Bankruptcy Basics
 U.S. Courts official guide
@@ -805,7 +805,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## How the Codebtor Stay Works in Chapter 13 -- Section 1301 -- Co-Debtor Stay
+## How the Codebtor Stay Works in Chapter 13 - Section 1301 - Co-Debtor Stay
 Source: https://codebtorstay.org/how-it-works.html
 
 Skip to main content
@@ -828,9 +828,9 @@ Network › Codebtor Stay › How It Works
 
 What Is the Codebtor Stay?
 
-When someone files for Chapter 13 bankruptcy, most people know about the automatic stay under 11 U.S.C. Section 362 -- the immediate halt to all collection activity against the person who filed. But Chapter 13 includes an additional layer of protection that many people overlook: the codebtor stay under 11 U.S.C. Section 1301.
+When someone files for Chapter 13 bankruptcy, most people know about the automatic stay under 11 U.S.C. Section 362 - the immediate halt to all collection activity against the person who filed. But Chapter 13 includes an additional layer of protection that many people overlook: the codebtor stay under 11 U.S.C. Section 1301.
 
-The codebtor stay is an automatic injunction that prevents creditors from taking collection action against any individual who is also liable on a consumer debt with the person who filed Chapter 13. In practical terms, it means that when you file Chapter 13, your cosigners, co-borrowers, and guarantors also get protection from creditor harassment, lawsuits, wage garnishments, and other collection efforts -- at least temporarily.
+The codebtor stay is an automatic injunction that prevents creditors from taking collection action against any individual who is also liable on a consumer debt with the person who filed Chapter 13. In practical terms, it means that when you file Chapter 13, your cosigners, co-borrowers, and guarantors also get protection from creditor harassment, lawsuits, wage garnishments, and other collection efforts - at least temporarily.
 
 This protection exists only in Chapter 13. It is not available in Chapter 7, Chapter 11, or Chapter 12 cases. It is one of the most significant advantages of choosing Chapter 13 over other bankruptcy chapters when you have debts that another person has agreed to pay alongside you.
 
@@ -858,7 +858,7 @@ Repossessing collateral from a cosigner
 
 The consumer debt requirement
 
-The codebtor stay only applies to consumer debts -- debts incurred primarily for a personal, family, or household purpose. If the debt is a business obligation, the codebtor stay does not protect the co-obligor. Courts look at the purpose of the debt at the time it was incurred, not at how the proceeds were later used. A car loan for a vehicle used primarily for commuting to work is a consumer debt. A loan taken to purchase inventory for a business is not.
+The codebtor stay only applies to consumer debts - debts incurred primarily for a personal, family, or household purpose. If the debt is a business obligation, the codebtor stay does not protect the co-obligor. Courts look at the purpose of the debt at the time it was incurred, not at how the proceeds were later used. A car loan for a vehicle used primarily for commuting to work is a consumer debt. A loan taken to purchase inventory for a business is not.
 
 The individual requirement
 
@@ -886,7 +886,7 @@ The debtor receives a discharge. Once the Chapter 13 discharge is entered, the c
 
 The court grants relief. A creditor can file a motion under Section 1301(c) asking the court to lift the codebtor stay for cause. If the court grants the motion, the creditor can then pursue the cosigner.
 
-In a successful Chapter 13 case, the codebtor stay typically lasts for the entire duration of the plan -- three to five years. During this entire period, the cosigner is shielded from collection activity on the protected debt.
+In a successful Chapter 13 case, the codebtor stay typically lasts for the entire duration of the plan - three to five years. During this entire period, the cosigner is shielded from collection activity on the protected debt.
 
 Practical Scenarios
 
@@ -904,7 +904,7 @@ Kevin's friend Tom cosigned Kevin's car loan. Kevin files Chapter 13 and propose
 
 Family member guaranteed a personal loan
 
-Angela's brother guaranteed her personal loan from a local bank. Angela files Chapter 13. The bank cannot contact Angela's brother for payment, cannot file a lawsuit against him, and cannot garnish his wages -- all because of the codebtor stay. If Angela's plan proposes to pay this loan at 100 cents on the dollar, her brother will never have to pay anything.
+Angela's brother guaranteed her personal loan from a local bank. Angela files Chapter 13. The bank cannot contact Angela's brother for payment, cannot file a lawsuit against him, and cannot garnish his wages - all because of the codebtor stay. If Angela's plan proposes to pay this loan at 100 cents on the dollar, her brother will never have to pay anything.
 
 What the Codebtor Stay Does Not Do
 
@@ -932,7 +932,7 @@ The codebtor stay remains in effect until the Chapter 13 case is closed, dismiss
 
 Does the codebtor stay protect cosigners on business debts?
 
-No. The codebtor stay under Section 1301 applies only to consumer debts -- debts incurred primarily for a personal, family, or household purpose. If the underlying debt is a business debt, the cosigner does not receive codebtor stay protection.
+No. The codebtor stay under Section 1301 applies only to consumer debts - debts incurred primarily for a personal, family, or household purpose. If the underlying debt is a business debt, the cosigner does not receive codebtor stay protection.
 
 What happens to the codebtor stay if the Chapter 13 case is converted to Chapter 7?
 
@@ -957,21 +957,21 @@ Subscribe
 
 Related Resources
 
-The Automatic Stay -- How Section 362 stops creditor collection the moment you file
+The Automatic Stay - How Section 362 stops creditor collection the moment you file
 
-Chapter 13 Plans -- How Chapter 13 repayment plans work and get confirmed
+Chapter 13 Plans - How Chapter 13 repayment plans work and get confirmed
 
-Relief from Stay -- When and how creditors can lift the automatic stay
+Relief from Stay - When and how creditors can lift the automatic stay
 
 Further Reading & Resources
 
 Authority sources for deeper research on the automatic stay:
 
 11 U.S.C. Section 362
-Cornell LII -- the statute that creates the automatic stay
+Cornell LII - the statute that creates the automatic stay
 
 11 U.S.C. Section 1301
-Cornell LII -- codebtor stay in Chapter 13
+Cornell LII - codebtor stay in Chapter 13
 
 Bankruptcy Basics
 U.S. Courts official guide
@@ -1065,7 +1065,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Co-Debtor Stay in Chapter 13 -- Section 1301 [2026]
+## Co-Debtor Stay in Chapter 13 - Section 1301 [2026]
 Source: https://codebtorstay.org/
 
 🌐 Esta pagina esta disponible en Espanol
@@ -1082,7 +1082,7 @@ Lifting the Stay
 How It Works
 Ch.7 vs Ch.13
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 Co-Debtor Stay in Chapter 13
 
@@ -1092,13 +1092,13 @@ Network › The Co-Debtor Stay
 
 About This Site
 
-The co-debtor stay under 11 U.S.C. Section 1301 is a unique protection available only in Chapter 13 bankruptcy. When you file Chapter 13, the automatic stay protection in bankruptcy protects you -- but Section 1301 goes further by also protecting co-signers, co-obligors, and guarantors on your consumer debts from collection activity during your case.
+The co-debtor stay under 11 U.S.C. Section 1301 is a unique protection available only in Chapter 13 bankruptcy. When you file Chapter 13, the automatic stay protection in bankruptcy protects you - but Section 1301 goes further by also protecting co-signers, co-obligors, and guarantors on your consumer debts from collection activity during your case.
 
 This site will explain how the co-debtor stay works, who it protects, and its limitations. We will cover the three grounds under Section 1301(c) on which a creditor can seek relief from the co-debtor stay, the requirement that the protected debt be a consumer debt (not a business debt), and how courts distinguish between consumer and business obligations.
 
 If you have a parent who co-signed a car loan, a spouse who is jointly liable on a credit card, or a friend who guaranteed a personal loan, the co-debtor stay may be one of the most important reasons to choose Chapter 13 over Chapter 7. We will explain when it applies and when it does not.
 
-Part of the Open Bankruptcy Project -- a growing collection of free, open-source bankruptcy information sites built on public court data. No advertising, no lead generation, no attorney referral fees. Real information, no strings.
+Part of the Open Bankruptcy Project - a growing collection of free, open-source bankruptcy information sites built on public court data. No advertising, no lead generation, no attorney referral fees. Real information, no strings.
 
 Frequently Asked Questions
 
@@ -1112,7 +1112,7 @@ Yes, but only in Chapter 13 and only for consumer debts. The stay prevents credi
 
 How long does the codebtor stay last?
 
-The codebtor stay lasts for the duration of the Chapter 13 case -- typically 3 to 5 years. It ends when the case is closed, dismissed, converted to Chapter 7, or if the court grants relief from the codebtor stay upon a creditor motion showing irreparable harm.
+The codebtor stay lasts for the duration of the Chapter 13 case - typically 3 to 5 years. It ends when the case is closed, dismissed, converted to Chapter 7, or if the court grants relief from the codebtor stay upon a creditor motion showing irreparable harm.
 
 Check Your Bankruptcy Discharge Eligibility
 
@@ -1135,7 +1135,7 @@ Cosigner Protection Strategies
 
 When the Codebtor Stay Can Be Lifted
 
-Creditor Motion for Relief -- Section 1301(c)
+Creditor Motion for Relief - Section 1301(c)
 
 Codebtor Protection: Chapter 7 vs. Chapter 13
 
@@ -1153,21 +1153,21 @@ Subscribe
 
 Related Resources
 
-The Automatic Stay -- How Section 362 stops creditor collection the moment you file
+The Automatic Stay - How Section 362 stops creditor collection the moment you file
 
-Chapter 13 Plans -- How Chapter 13 repayment plans work and get confirmed
+Chapter 13 Plans - How Chapter 13 repayment plans work and get confirmed
 
-Relief from Stay -- When and how creditors can lift the automatic stay
+Relief from Stay - When and how creditors can lift the automatic stay
 
 Further Reading & Resources
 
 Authority sources for deeper research on the automatic stay:
 
 11 U.S.C. Section 362
-Cornell LII -- the statute that creates the automatic stay
+Cornell LII - the statute that creates the automatic stay
 
 11 U.S.C. Section 1301
-Cornell LII -- codebtor stay in Chapter 13
+Cornell LII - codebtor stay in Chapter 13
 
 Bankruptcy Basics
 U.S. Courts official guide
@@ -1212,7 +1212,7 @@ serialfiler.org →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -1374,11 +1374,14 @@ bankruptcyhardship.org
 voluntarypetition.org
 ♥ Sponsor
 GitHub
+Rule 9037 PII Scanner
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
 A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
 
 Privacy | Terms | Open Bankruptcy Project
+
+Cited by the Federal Rules Committee (26-BK-3)
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -1400,7 +1403,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## When the Codebtor Stay Can Be Lifted -- Co-Debtor Stay
+## When the Codebtor Stay Can Be Lifted - Co-Debtor Stay
 Source: https://codebtorstay.org/lifting-the-stay.html
 
 Skip to main content
@@ -1449,21 +1452,21 @@ Subscribe
 
 Related Resources
 
-The Automatic Stay -- How Section 362 stops creditor collection the moment you file
+The Automatic Stay - How Section 362 stops creditor collection the moment you file
 
-Chapter 13 Plans -- How Chapter 13 repayment plans work and get confirmed
+Chapter 13 Plans - How Chapter 13 repayment plans work and get confirmed
 
-Relief from Stay -- When and how creditors can lift the automatic stay
+Relief from Stay - When and how creditors can lift the automatic stay
 
 Further Reading & Resources
 
 Authority sources for deeper research on the automatic stay:
 
 11 U.S.C. Section 362
-Cornell LII -- the statute that creates the automatic stay
+Cornell LII - the statute that creates the automatic stay
 
 11 U.S.C. Section 1301
-Cornell LII -- codebtor stay in Chapter 13
+Cornell LII - codebtor stay in Chapter 13
 
 Bankruptcy Basics
 U.S. Courts official guide
@@ -1576,7 +1579,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## How to Protect Your Cosigner in Chapter 13 -- Co-Debtor Stay
+## How to Protect Your Cosigner in Chapter 13 - Co-Debtor Stay
 Source: https://codebtorstay.org/protecting-cosigners.html
 
 Skip to main content
@@ -1629,21 +1632,21 @@ Subscribe
 
 Related Resources
 
-The Automatic Stay -- How Section 362 stops creditor collection the moment you file
+The Automatic Stay - How Section 362 stops creditor collection the moment you file
 
-Chapter 13 Plans -- How Chapter 13 repayment plans work and get confirmed
+Chapter 13 Plans - How Chapter 13 repayment plans work and get confirmed
 
-Relief from Stay -- When and how creditors can lift the automatic stay
+Relief from Stay - When and how creditors can lift the automatic stay
 
 Further Reading & Resources
 
 Authority sources for deeper research on the automatic stay:
 
 11 U.S.C. Section 362
-Cornell LII -- the statute that creates the automatic stay
+Cornell LII - the statute that creates the automatic stay
 
 11 U.S.C. Section 1301
-Cornell LII -- codebtor stay in Chapter 13
+Cornell LII - codebtor stay in Chapter 13
 
 Bankruptcy Basics
 U.S. Courts official guide
@@ -1756,7 +1759,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Creditor Motion for Relief from the Codebtor Stay -- Section 1301(c) -- Co-Debtor Stay
+## Creditor Motion for Relief from the Codebtor Stay - Section 1301(c) - Co-Debtor Stay
 Source: https://codebtorstay.org/relief-from-codebtor-stay.html
 
 Skip to main content
@@ -1779,7 +1782,7 @@ Network › Codebtor Stay › Relief from Codebtor Stay
 
 When the Codebtor Stay Can Be Lifted
 
-The codebtor stay under 11 U.S.C. Section 1301 is not absolute. Congress included three specific grounds in Section 1301(c) on which a creditor can ask the bankruptcy court to terminate, annul, or modify the codebtor stay. If the creditor files a motion and demonstrates one of these grounds, the court can grant relief -- allowing the creditor to pursue the codebtor directly.
+The codebtor stay under 11 U.S.C. Section 1301 is not absolute. Congress included three specific grounds in Section 1301(c) on which a creditor can ask the bankruptcy court to terminate, annul, or modify the codebtor stay. If the creditor files a motion and demonstrates one of these grounds, the court can grant relief - allowing the creditor to pursue the codebtor directly.
 
 Understanding these three grounds is essential for any debtor who wants to protect a cosigner. It is equally important for cosigners who want to know when their protection might end and what they can do about it.
 
@@ -1791,11 +1794,11 @@ In plain language, this means the codebtor was actually the person who benefited
 
 How this plays out in practice
 
-Consider this scenario: a father cosigns a car loan for his daughter. The daughter files Chapter 13 bankruptcy. The codebtor stay would normally protect the father. But if the evidence shows that the father was actually the one driving the car and making the payments -- that the daughter only signed the loan to help the father qualify -- then the creditor could argue that the father "received the consideration" and should not be protected by his daughter's bankruptcy.
+Consider this scenario: a father cosigns a car loan for his daughter. The daughter files Chapter 13 bankruptcy. The codebtor stay would normally protect the father. But if the evidence shows that the father was actually the one driving the car and making the payments - that the daughter only signed the loan to help the father qualify - then the creditor could argue that the father "received the consideration" and should not be protected by his daughter's bankruptcy.
 
 Courts look at who actually received and used the loan proceeds, not just whose name is on the loan documents. If the codebtor was the true beneficiary, the court is likely to grant relief under this ground.
 
-Key point. This ground targets situations where the roles are reversed -- where the person who filed bankruptcy was really the cosigner, and the "codebtor" was really the primary borrower. If both parties genuinely co-benefited from the loan (such as a joint credit card used by both spouses), this ground is harder for the creditor to establish.
+Key point. This ground targets situations where the roles are reversed - where the person who filed bankruptcy was really the cosigner, and the "codebtor" was really the primary borrower. If both parties genuinely co-benefited from the loan (such as a joint credit card used by both spouses), this ground is harder for the creditor to establish.
 
 Ground 2: The Plan Does Not Propose Full Payment
 
@@ -1817,7 +1820,7 @@ Ground 3: Irreparable Harm to the Creditor
 
 Section 1301(c)(3) allows relief when "such creditor's interest would be irreparably harmed by continuation of such stay."
 
-This is the broadest and most fact-specific ground. The creditor must demonstrate that its interest will be irreparably harmed if the codebtor stay continues. Courts generally require the creditor to show more than just inconvenience or delay -- the harm must be genuine and not adequately compensable through the plan.
+This is the broadest and most fact-specific ground. The creditor must demonstrate that its interest will be irreparably harmed if the codebtor stay continues. Courts generally require the creditor to show more than just inconvenience or delay - the harm must be genuine and not adequately compensable through the plan.
 
 What constitutes irreparable harm
 
@@ -1841,7 +1844,7 @@ A creditor seeking relief from the codebtor stay must file a written motion with
 
 The 20-day rule
 
-Section 1301(d) provides an important procedural safeguard: if no party in interest -- the debtor or the codebtor -- files a written objection within 20 days after the motion is served, the court "shall" grant such relief as requested by the creditor. In other words, failing to respond means the codebtor stay will be lifted by default.
+Section 1301(d) provides an important procedural safeguard: if no party in interest - the debtor or the codebtor - files a written objection within 20 days after the motion is served, the court "shall" grant such relief as requested by the creditor. In other words, failing to respond means the codebtor stay will be lifted by default.
 
 The hearing
 
@@ -1859,7 +1862,7 @@ File a written objection within 20 days. This is mandatory. If no objection is f
 
 Address the specific ground cited. If the creditor relies on Ground 2 (plan does not pay the claim), consider modifying your plan to propose 100% payment. If the creditor relies on Ground 1, prepare evidence showing who actually benefited from the loan proceeds.
 
-Propose adequate protection. If you cannot pay the claim at 100%, consider what alternatives you can offer -- such as direct payments by the codebtor to cover the shortfall, or an increased plan payment that covers the full claim.
+Propose adequate protection. If you cannot pay the claim at 100%, consider what alternatives you can offer - such as direct payments by the codebtor to cover the shortfall, or an increased plan payment that covers the full claim.
 
 Attend the hearing. Present your case to the court. Bring evidence of your plan payments, your budget, and any facts that undermine the creditor's motion.
 
@@ -1916,21 +1919,21 @@ Subscribe
 
 Related Resources
 
-Relief from Stay -- When and how creditors can lift the automatic stay under Section 362
+Relief from Stay - When and how creditors can lift the automatic stay under Section 362
 
-The Automatic Stay -- How Section 362 stops creditor collection the moment you file
+The Automatic Stay - How Section 362 stops creditor collection the moment you file
 
-Chapter 13 Plans -- How Chapter 13 repayment plans work and get confirmed
+Chapter 13 Plans - How Chapter 13 repayment plans work and get confirmed
 
 Further Reading & Resources
 
 Authority sources for deeper research on the automatic stay:
 
 11 U.S.C. Section 362
-Cornell LII -- the statute that creates the automatic stay
+Cornell LII - the statute that creates the automatic stay
 
 11 U.S.C. Section 1301
-Cornell LII -- codebtor stay in Chapter 13
+Cornell LII - codebtor stay in Chapter 13
 
 Bankruptcy Basics
 U.S. Courts official guide
@@ -2022,7 +2025,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Who Does the Codebtor Stay Protect? -- Co-Debtor Stay
+## Who Does the Codebtor Stay Protect? - Co-Debtor Stay
 Source: https://codebtorstay.org/who-is-protected.html
 
 Skip to main content
@@ -2051,7 +2054,7 @@ Common examples: parents who cosigned student loans, spouses on joint credit car
 
 What Is NOT Protected
 
-The codebtor stay applies only to consumer debts -- not business debts. A business partner who co-signed a commercial lease is not protected.
+The codebtor stay applies only to consumer debts - not business debts. A business partner who co-signed a commercial lease is not protected.
 
 The stay does not apply in Chapter 7 or Chapter 11. It is unique to Chapter 13. If you convert your case to Chapter 7, the codebtor stay lifts immediately.
 
@@ -2071,21 +2074,21 @@ Subscribe
 
 Related Resources
 
-The Automatic Stay -- How Section 362 stops creditor collection the moment you file
+The Automatic Stay - How Section 362 stops creditor collection the moment you file
 
-Chapter 13 Plans -- How Chapter 13 repayment plans work and get confirmed
+Chapter 13 Plans - How Chapter 13 repayment plans work and get confirmed
 
-Relief from Stay -- When and how creditors can lift the automatic stay
+Relief from Stay - When and how creditors can lift the automatic stay
 
 Further Reading & Resources
 
 Authority sources for deeper research on the automatic stay:
 
 11 U.S.C. Section 362
-Cornell LII -- the statute that creates the automatic stay
+Cornell LII - the statute that creates the automatic stay
 
 11 U.S.C. Section 1301
-Cornell LII -- codebtor stay in Chapter 13
+Cornell LII - codebtor stay in Chapter 13
 
 Bankruptcy Basics
 U.S. Courts official guide
@@ -2195,3 +2198,75 @@ This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptc
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Privacy Policy - codebtorstay.org
+Source: https://codebtorstay.org/privacy.html
+
+codebtorstay.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.

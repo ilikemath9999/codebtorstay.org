@@ -1,19 +1,20 @@
-# Co-Debtor Stay in Chapter 13 -- Section 1301 [2026]
+# Co-Debtor Stay in Chapter 13 - Section 1301 [2026]
 > The co-debtor stay protects cosigners in Chapter 13 bankruptcy. Learn scope, exceptions, and how creditors seek relief. 2026 guide. [Co-Debtor Stay]
 
 ## About
 codebtorstay.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Codebtor Protection in Chapter 7 vs. Chapter 13 -- Co-Debtor Stay: https://codebtorstay.org/chapter-7-vs-13.html
-- Codebtor Stay and Community Property States -- Co-Debtor Stay: https://codebtorstay.org/community-property.html
-- Protecting Your Cosigner in Chapter 13 Bankruptcy -- Co-Debtor Stay: https://codebtorstay.org/cosigner-protection.html
-- How the Codebtor Stay Works in Chapter 13 -- Section 1301 -- Co-Debtor Stay: https://codebtorstay.org/how-it-works.html
-- Co-Debtor Stay in Chapter 13 -- Section 1301: https://codebtorstay.org/
-- When the Codebtor Stay Can Be Lifted -- Co-Debtor Stay: https://codebtorstay.org/lifting-the-stay.html
-- How to Protect Your Cosigner in Chapter 13 -- Co-Debtor Stay: https://codebtorstay.org/protecting-cosigners.html
-- Creditor Motion for Relief from the Codebtor Stay -- Section 1301(c) -- Co-Debtor Stay: https://codebtorstay.org/relief-from-codebtor-stay.html
-- Who Does the Codebtor Stay Protect? -- Co-Debtor Stay: https://codebtorstay.org/who-is-protected.html
+- Codebtor Protection in Chapter 7 vs. Chapter 13 - Co-Debtor Stay: https://codebtorstay.org/chapter-7-vs-13.html
+- Codebtor Stay and Community Property States - Co-Debtor Stay: https://codebtorstay.org/community-property.html
+- Protecting Your Cosigner in Chapter 13 Bankruptcy - Co-Debtor Stay: https://codebtorstay.org/cosigner-protection.html
+- How the Codebtor Stay Works in Chapter 13 - Section 1301 - Co-Debtor Stay: https://codebtorstay.org/how-it-works.html
+- Co-Debtor Stay in Chapter 13 - Section 1301: https://codebtorstay.org/
+- When the Codebtor Stay Can Be Lifted - Co-Debtor Stay: https://codebtorstay.org/lifting-the-stay.html
+- How to Protect Your Cosigner in Chapter 13 - Co-Debtor Stay: https://codebtorstay.org/protecting-cosigners.html
+- Creditor Motion for Relief from the Codebtor Stay - Section 1301(c) - Co-Debtor Stay: https://codebtorstay.org/relief-from-codebtor-stay.html
+- Who Does the Codebtor Stay Protect? - Co-Debtor Stay: https://codebtorstay.org/who-is-protected.html
+- Privacy Policy: https://codebtorstay.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
